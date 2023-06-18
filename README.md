@@ -4,4 +4,4 @@
 - 📫 How to reach me: DominikOcsofszki2@gmail.com
 - Looking for jobs in Germany? -> https://www.get-in-it.de
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=10422001)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=10422001&hide_progress=true)
